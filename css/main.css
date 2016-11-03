@@ -27,6 +27,7 @@ img {
 }
 
 div {
+  width: 40px;
   float: left;
   padding-top: .3em;
 }
