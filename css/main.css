@@ -42,7 +42,7 @@ body {
   margin: 0;
 }
 
-nav ul {
+.nav ul {
   list-style-type: none;
   text-align: center;
   display: flex;
@@ -52,13 +52,13 @@ nav ul {
   flex: 1;
 }
 
-nav li {
+.nav li {
   display: inline-block;
   text-align: center;
   width: 100%;
 }
 
-nav a {
+.nav a {
   text-decoration: none;
   color: white;
   display: block;
